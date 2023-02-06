@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #EEF9BF; 
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 5px; /*Sets the size of the dots*/
+    border-color: #A7E9AF; 
+    width: 4%;
+}
+
+h1 {
+    color: #6A8CAF;
+}
+
+h3 {  
+    color: #75B79E;
+}
+
+a:link {
+    text-decoration: none;
+    color: #126189
+}
+a:visited {
+    text-decoration: none;
+    color: #126189
+}
+
+.navigation-links:link {
+    padding: 12px 21px;
+    background-color: #A7E9AF;
+}
+.navigation-links:visited {
+    padding: 12px 21px;
+    background-color: #A7E9AF;
+}
+.navigation-links:hover {
+    color: #A7E9AF;
+    background-color: #126189;
+}
